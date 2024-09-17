@@ -1,5 +1,0 @@
-[preload  storage="./data/bgimage/mysticforest1.jpg"  ]
-[preload  storage="./data/fgimage/default/achievmentЦелибат.png"  ]
-[preload  storage="./data/fgimage/default/achievmentUnscathed.png"  ]
-[preload  storage="./data/fgimage/default/achievmentClose.png"  ]
-[return]
