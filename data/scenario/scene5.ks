@@ -25,7 +25,7 @@
 
 [_tb_end_text]
 
-[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asmNormal.png"  width="661"  height="667"  left="719"  top="70"  reflect="false"  ]
+[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asmNormal.png"  width="704"  height="704"  left="699"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 На этот раз Асмир услышал. Повернул голову и нашёл Медейну глазами. Она жестом позвала его к себе, и он поднялся с места, коротко объяснился и подошёл. [p]
 #Асмир
@@ -264,7 +264,7 @@
 
 [_tb_end_text]
 
-[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asmNormal.png"  width="661"  height="667"  left="719"  top="70"  reflect="false"  ]
+[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asmNormal.png"  width="704"  height="704"  left="699"  top="30"  reflect="false"  ]
 [bg  time="1000"  method="crossfade"  storage="shed.jpg"  ]
 [tb_start_text mode=1 ]
 #Асмир
