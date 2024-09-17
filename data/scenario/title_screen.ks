@@ -12,8 +12,8 @@
 [playbgm  volume="50"  time="10000"  loop="true"  fadein="true"  storage="Upon-the-Greenwood-_1_.ogg"  ]
 *title
 
-[buttonHover  soundVolume="0.5"  storage="title_screen.ks"  target="*start"  graphic="button/start_game.png"  width="197"  height="113"  graphicH="button/start_game_h.png"  x="533"  y="368"  _clickable_img="storageSe"  ]
-[buttonHover  soundVolume="0.5"  storage="title_screen.ks"  target="*load"  graphic="button/load_game.png"  width="197"  height="105"  graphicH="button/load_h.png"  x="533"  y="500"  _clickable_img="storageSe"  ]
+[buttonHover  soundVolume="0.5"  storage="title_screen.ks"  target="*start"  graphic="button/buttonstart.png"  width="345"  height="129"  graphicH="button/buttonstart2.png"  x="429"  y="259"  _clickable_img=""  name="img_9"  ]
+[buttonHover  soundVolume="0.5"  storage="title_screen.ks"  target="*load"  graphic="button/buttonload.png"  width="361"  height="131"  graphicH="button/buttonload2.png"  x="429"  y="369"  _clickable_img=""  ]
 [s  ]
 *start
 

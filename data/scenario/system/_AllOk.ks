@@ -16,4 +16,5 @@
 [preload  storage="./data/fgimage/default/Moonshine.png"  ]
 [preload  storage="./data/fgimage/default/amulet.png"  ]
 [preload  storage="./data/bgimage/kitchen.jpg"  ]
+[preload  storage="./data/fgimage/default/achievmentAllSave.png"  ]
 [return]
