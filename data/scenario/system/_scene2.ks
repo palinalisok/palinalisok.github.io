@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/domNeutral.jpg"  ]
+[preload  storage="./data/bgimage/kitchen.jpg"  ]
+[preload  storage="./data/bgimage/AsmirsRoom.jpg"  ]
+[preload  storage="./data/bgimage/forestpath.jpg"  ]
+[preload  storage="./data/bgimage/Zalasye.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/MediUpset.png"  ]
+[preload  storage="./data/fgimage/chara/1/МediWorried.png"  ]
+[return]
