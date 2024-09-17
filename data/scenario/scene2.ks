@@ -178,7 +178,7 @@
 
 [bg  time="1000"  method="crossfade"  storage="AsmirsRoom.jpg"  ]
 [chara_show  name="Medeyna"  time="1000"  wait="true"  storage="chara/1/MediNormal.png"  width="409"  height="543"  left="70"  top="80"  reflect="false"  ]
-[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png"  width="670"  height="670"  left="740"  top="80"  reflect="false"  ]
+[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png"  width="704"  height="704"  left="699"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Медейна
 {bold}Возьми. Вдруг пригодится. {/bold}[p]
@@ -223,7 +223,7 @@
 
 [bg  time="1000"  method="crossfade"  storage="AsmirsRoom.jpg"  ]
 [chara_show  name="Medeyna"  time="1000"  wait="true"  storage="chara/1/MediNormal.png"  width="409"  height="543"  left="70"  top="80"  reflect="false"  ]
-[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png"  width="670"  height="670"  left="740"  top="80"  reflect="false"  ]
+[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png" width="704"  height="704"  left="699"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Медейна
 {bold}Возьми. Вдруг пригодится. {/bold}[p]
