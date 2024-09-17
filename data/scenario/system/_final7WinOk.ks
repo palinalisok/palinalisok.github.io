@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/ominousforest1.png"  ]
+[preload  storage="./data/fgimage/default/final7.png"  ]
+[preload  storage="./data/fgimage/chara/1/MediAngry.png"  ]
+[preload  storage="./data/fgimage/chara/1/MediSmile.png"  ]
+[preload  storage="./data/fgimage/chara/2/asm.png"  ]
+[preload  storage="./data/fgimage/chara/1/MediUpset.png"  ]
+[preload  storage="./data/fgimage/chara/2/asmUpset.png"  ]
+[return]
