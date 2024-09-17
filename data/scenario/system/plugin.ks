@@ -1,3 +1,0 @@
-
-[translateSystem ]
-[return]
