@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/mysticforest1.jpg"  ]
+[preload  storage="./data/fgimage/default/final6.png"  ]
+[preload  storage="./data/fgimage/chara/1/MediScared.png"  ]
+[preload  storage="./data/fgimage/chara/1/MediCry.png"  ]
+[preload  storage="./data/bgimage/Zalasye.jpg"  ]
+[preload  storage="./data/bgimage/domNeutral.jpg"  ]
+[return]
