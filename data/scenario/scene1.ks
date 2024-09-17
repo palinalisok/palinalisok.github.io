@@ -18,7 +18,7 @@
 Подчиняясь магии, последний камень встал на свое место на трубе, венчающей крышу. Изба была готова. Добротное, просторное жилище, в котором можно осесть надолго. [p]
 [_tb_end_text]
 
-[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png"  width="670"  height="670"  left="699"  top="70"  reflect="false"  ]
+[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png"  width="704"  height="704"  left="699"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Асмир
 {bold}Хорошо вышло, а? {/bold}[p]
@@ -60,7 +60,7 @@
 Все равно ее терзали сомнения: может быть, стоило продолжать поиски. А может быть, давно пора было взглянуть суровой правде в глаза: отыскать сестру, с которой их разлучили в детстве, не выйдет. [p]
 [_tb_end_text]
 
-[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png"  width="670"  height="670"  left="700"  top="70"  reflect="false"  ]
+[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asm.png"  width="704"  height="704"  left="699"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #Асмир
 {bold}Печалишься?{/bold}[p]
@@ -277,7 +277,7 @@
 
 [_tb_end_text]
 
-[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asmNormal.png"  width="670"  height="670"  left="699"  top="70"  reflect="false"  ]
+[chara_show  name="Asmir"  time="1000"  wait="true"  storage="chara/2/asmNormal.png"  width="704"  height="704"  left="699"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
 Асмир, ожидая, пока он приготовится, сидел за столом. В отсутствии собеседников его жизнерадостная маска слетела, оставив лишь задумчивую меланхолию, которая была свойственна им обоим.  [p]
 Его пальцы с методичной машинальностью крутили кольцо на большом пальце – единственное наследство, которое он имел. [p]
