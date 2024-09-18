@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_final2RAT.ks]
+[_tb_system_call storage=system/_final2.ks]
 
 [stopbgm  time="1000"  ]
 [chara_hide_all  time="1000"  wait="true"  ]
