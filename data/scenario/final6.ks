@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_final6WinDead.ks]
+[_tb_system_call storage=system/_final6.ks]
 
 [chara_hide_all  time="1000"  wait="false"  ]
 [bg  time="1000"  method="crossfade"  storage="mysticforest1.jpg"  ]
