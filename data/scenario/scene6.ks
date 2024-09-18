@@ -460,8 +460,8 @@
 [_tb_end_text]
 
 [endif  ]
-[jump  storage="final6WinDead.ks"  target=""  cond="f.AsmirSurv==0"  ]
-[jump  storage="final7WinOk.ks"  target=""  cond="f.AsmirSurv>0"  ]
+[jump  storage="final6.ks"  target=""  cond="f.AsmirSurv==0"  ]
+[jump  storage="final7.ks"  target=""  cond="f.AsmirSurv>0"  ]
 [endif  ]
 [if  exp="f.HP<8"  ]
 [tb_start_text mode=1 ]
@@ -471,8 +471,8 @@
 
 [_tb_end_text]
 
-[jump  storage="final5LoseDead.ks"  target=""  cond="f.AsmirSurv==0"  ]
-[jump  storage="final3LoseAlive.ks"  target=""  cond="f.AsmirSurv==3"  ]
-[jump  storage="final4LoseOk.ks"  target=""  ]
+[jump  storage="final5.ks"  target=""  cond="f.AsmirSurv==0"  ]
+[jump  storage="final3.ks"  target=""  cond="f.AsmirSurv==3"  ]
+[jump  storage="final4.ks"  target=""  ]
 [endif  ]
 [s  ]
