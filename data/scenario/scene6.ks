@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_scene6.ks]
+
 
 [chara_hide  name="Medeyna"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="ominousforest1.png"  ]
