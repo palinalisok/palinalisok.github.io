@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_final7WinOk.ks]
+[_tb_system_call storage=system/_final7.ks]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="ominousforest1.png"  ]
