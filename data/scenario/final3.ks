@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_final3LoseAlive.ks]
+[_tb_system_call storage=system/_final3.ks]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="mysticforest1.jpg"  ]
