@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_scene3.ks]
+
 
 [bg  time="1000"  method="crossfade"  storage="ominousforest.png"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Whispers-of-the-Elder-Wood.ogg"  ]
