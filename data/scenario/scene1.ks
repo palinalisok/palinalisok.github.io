@@ -2,7 +2,7 @@
 
 [cm  ]
 [tb_image_hide  time="1000"  ]
-[bg  time="1000"  method="fadeIn"  storage="titl.jpg"  ]
+[bg  time="2000"  method="fadeIn"  storage="titl.jpg"  ]
 [stopbgm  time="1000"  fadeout="true"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="The-Lonely-Knight-_1_.ogg"  ]
 [tb_show_message_window  ]
