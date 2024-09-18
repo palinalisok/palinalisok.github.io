@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_final5LoseDead.ks]
+[_tb_system_call storage=system/_final5.ks]
 
 [chara_hide  name="Medeyna"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="mysticforest1.jpg"  ]
