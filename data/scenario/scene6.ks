@@ -99,7 +99,7 @@
 #
 [_tb_end_text]
 
-[jump  storage="Final1Death.ks"  target=""  cond="f.HP==0"  ]
+[jump  storage="Final1.ks"  target=""  cond="f.HP==0"  ]
 [tb_start_text mode=1 ]
 #Медейна
 «Ладно, кажется, настало время крайних мер».[p]
