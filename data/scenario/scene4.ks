@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_scene4.ks]
+
 
 [bg  time="1000"  method="crossfade"  storage="ominousforest.png"  ]
 [chara_show  name="Medeyna"  time="1000"  wait="true"  storage="chara/1/MediCry.png"  width="409"  height="543"  left="60"  top="80"  reflect="false"  ]
