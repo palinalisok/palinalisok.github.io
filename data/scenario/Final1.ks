@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_Final1Death.ks]
+[_tb_system_call storage=system/_Final1.ks]
 
 [stopbgm  time="1000"  ]
 [chara_hide  name="Medeyna"  time="1000"  wait="true"  pos_mode="false"  ]
