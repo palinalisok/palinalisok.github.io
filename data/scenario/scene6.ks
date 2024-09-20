@@ -288,7 +288,9 @@
 
 [jump  storage="scene6.ks"  target="*Common"  ]
 *LoyaFlirt2
-
+[tb_eval  exp="f.LL='Loya'"  name="LL"  cmd="="  op="t"  val="Loya"  ]
+[tb_image_show  time="1000"  storage="default/LoyaLL.png"  width="472"  height="201"  x="400"  y="-10"  _clickable_img=""  name="img_82"  ]
+[tb_image_hide  time="2000"  ]
 [tb_eval  exp="f.LoyaRomance+=2"  name="LoyaRomance"  cmd="+="  op="t"  val="2"  val_2="undefined"  ]
 [cm  ]
 [tb_start_text mode=1 ]
@@ -343,9 +345,7 @@
 
 [_tb_end_text]
 
-[tb_eval  exp="f.LL='Loya'"  name="LL"  cmd="="  op="t"  val="Loya"  ]
-[tb_image_show  time="1000"  storage="default/LoyaLL.png"  width="472"  height="201"  x="400"  y="-10"  _clickable_img=""  name="img_82"  ]
-[tb_image_hide  time="2000"  ]
+
 *Common
 
 [tb_start_text mode=1 ]
