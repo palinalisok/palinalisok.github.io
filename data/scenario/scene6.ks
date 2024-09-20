@@ -224,15 +224,16 @@
 #
 Лоя нервно дёрнула плечами. [p]
 #Медейна
-За что тебя так в деревне невзлюбили? [p]
+{bold}За что тебя так в деревне невзлюбили?{/bold} [p]
 #Лоя
-Дураки потому что.[p]
+{bold}Дураки потому что.{/bold}[p]
 
 [_tb_end_text]
 
 [chara_mod  name="Loya"  time="600"  cross="true"  storage="chara/8/LoyaDistracted.png"  ]
 [tb_start_text mode=1 ]
-Это всё из-за Инки. [p]
+{bold}Это всё из-за Инки.{/bold} [p]
+
 #Медейна
 {bold}Соперница твоя? {/bold}[p]
 #Лоя
