@@ -313,7 +313,7 @@
 [_tb_end_text]
 
 [tb_start_tyrano_code]
-[glink target="Common2" text="Асмир мне дорог" graphic="buttonR.png" x=80 y=510 font_color=0x000000 size=20 width=400 height=70 enterimg="buttonR2.png"]
+[glink target="Common22" text="Асмир мне дорог" graphic="buttonR.png" x=80 y=510 font_color=0x000000 size=20 width=400 height=70 enterimg="buttonR2.png"]
 [glink target="Loya" text="...но как друг" graphic="buttonR.png" x=80 y=570 font_color=0x000000 size=20 width=400 height=70 enterimg="buttonR2.png"]
 [glink target="Noone" text="Сейчас не до романтики" graphic="button.png" x=80 y=630 font_color=0x000000 size=20 width=400 height=70 enterimg="button2.png"]
 [_tb_end_tyrano_code]
@@ -330,6 +330,9 @@
 [tb_image_show  time="1000"  storage="default/LLnone.png"  width="472"  height="201"  x="390"  y="0"  _clickable_img=""  ]
 [tb_image_hide  time="3000"  ]
 [tb_eval  exp="f.LL='None'"  name="LL"  cmd="="  op="t"  val="None"  val_2="undefined"  ]
+
+*Common22
+[tb_eval  exp="f.LL='Asmir'"  name="LL"  cmd="="  op="t"  val="Asmir"  val_2="undefined"  ]
 *Common2
 
 [cm  ]
