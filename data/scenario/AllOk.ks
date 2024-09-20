@@ -64,7 +64,7 @@
 
 [_tb_end_text]
 
-[if  exp="f.HP<6"  ]
+[if  exp="f.HP<8"  ]
 [tb_start_text mode=1 ]
 {bold}Но это не только моя заслуга.{/bold}[p]
 [_tb_end_text]
