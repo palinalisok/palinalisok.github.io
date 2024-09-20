@@ -360,15 +360,7 @@
 Лоя нахмурилась, как будто разочарованная тем, что возвращалась в лес зря. [p]
 
 [_tb_end_text]
-
-[tb_start_tyrano_code]
-[glink target="LoyaFlirt3" text="Поцеловать её в щёку" graphic="buttonR.png" x=80 y=510 font_color=0x000000 size=20 width=400 height=70 enterimg="buttonR2.png"]
-[glink target="Normal3" text="Похлопать по плечу" graphic="button.png" x=80 y=570 font_color=0x000000 size=20 width=400 height=70 enterimg="button2.png"]
-[_tb_end_tyrano_code]
-
-[s  ]
-*LoyaFlirt3
-
+[if  exp="f.LL==='Loya'"  ]
 [chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/MediSmile.png"  ]
 [cm  ]
 [tb_eval  exp="f.LoyaRomance+=1"  name="LoyaRomance"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -390,8 +382,13 @@
 [_tb_end_text]
 
 [jump  storage="scene6.ks"  target="*Common3"  ]
-*Normal3
+[endif  ]
 
+*LoyaFlirt3
+
+
+*Normal3
+[if  exp="f.LL!=='Loya'"  ]
 [cm  ]
 [tb_start_text mode=1 ]
 #Медейна
@@ -400,7 +397,7 @@
 Лоя поправила уже начавшую стираться на лбу руну концентрации, покрепче перехватила свой осиновый кол и вскоре бодрым шагом скрылась за кустарником. [p]
 
 [_tb_end_text]
-
+[endif  ]
 *Common3
 
 [chara_hide  name="Loya"  time="1000"  wait="true"  pos_mode="false"  ]
