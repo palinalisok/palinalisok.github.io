@@ -477,7 +477,7 @@
 #Медейна
 «Роль героини-спасительницы точно не по мне. Но и злобной ведьмы тоже. Жаль, что люди видят только крайности».[p]
 [_tb_end_text]
-[chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/MediWorried.png"  ]
+[chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/МediWorried.png"  ]
 [if  exp="f.GershviRomance>3"  ]
 [tb_start_text mode=1 ]
 #
