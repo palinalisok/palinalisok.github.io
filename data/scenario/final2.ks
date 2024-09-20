@@ -1,6 +1,7 @@
 
 
 [stopbgm  time="1000"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="sad.ogg"  ]
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_image_hide  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="ominousforest1.png"  ]
