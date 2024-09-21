@@ -305,6 +305,11 @@
 {bold}Было бы славно. И маму проведать недалеко. А друг твой не будет против? {/bold}[p]
 
 [_tb_end_text]
+[chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/MediSideEye.png"  ]
+[tb_start_text mode=1 ]
+#Медейна
+«Надо же, как быстро расходятся слухи. Уже и в соседних деревнях все знают про моих "друзей"».[p]
+[_tb_end_text]
 
 [if  exp="f.AsmirRomance>=4"  ]
 [chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/МediWorried.png"  ]
