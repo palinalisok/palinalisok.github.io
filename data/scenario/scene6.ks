@@ -348,6 +348,7 @@
 [_tb_end_text]
 
 [endif  ]
+[chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/MediNormal.png"  ]
 [tb_start_text mode=1 ]
 #Медейна
 {bold}Не будет. Он человек добрый.{/bold}[p]
