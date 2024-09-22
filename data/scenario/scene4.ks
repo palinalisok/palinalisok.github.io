@@ -372,7 +372,7 @@
 
 [_tb_end_tyrano_code]
 
-[if  exp="f.AsmirRomance>=4||LL==='Asmir'"  ]
+[if  exp="f.AsmirRomance>=2||LL==='Asmir'"  ]
 [tb_start_tyrano_code]
 [glink target="Taken" text="Моё сердце занято" graphic="buttonR.png" x=80 y=630 font_color=0x000000 size=18 width=400 height=70 enterimg="buttonR2.png"]
 
