@@ -382,7 +382,7 @@
 [_tb_end_text]
 
 [endif  ]
-[if  exp="f."  ]
+[if  exp="f.Occupation==='artefactor'"  ] 
 [tb_start_text mode=1 ]
 #
 Лоя гордо протянула Медейне свёрток.[p]
