@@ -135,6 +135,9 @@
 [_tb_end_text]
 
 [chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/MediDead.png"  ]
+[if  exp="f.LL==='Asmir'"  ]
+[tb_image_show  time="1000"  storage="default/achievmentТотСвет.png"  width="551"  height="235"  x="320"  y="-40"  _clickable_img=""  name="img_19"  ]
+[tb_image_hide  time="3000"  ]
 [jump  storage="endTitles.ks"  target=""  ]
 *help
 
