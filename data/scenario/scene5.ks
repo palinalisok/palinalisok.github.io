@@ -448,12 +448,9 @@
 [_tb_end_text]
 
 [chara_mod  name="Asmir"  time="600"  cross="true"  storage="chara/2/asm.png"  ]
-[tb_start_tyrano_code]
-[glink target="Denial" text="Поддаться  слабости" graphic="button.png" x=80 y=510 font_color=0x000000 size=20 width=400 height=70 enterimg="button2.png"]
-[glink target="Fight" text="Использовать магию" graphic="button.png" x=80 y=570 font_color=0x000000 size=20 width=400 height=70 enterimg="button2.png"]
-[_tb_end_tyrano_code]
 
-[s  ]
+[jump  storage="Final1.ks"  target="*Denial"  cond="f.Delulu==4"  ]
+
 *Fight
 
 [cm  ]
