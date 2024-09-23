@@ -27,6 +27,7 @@
 ;=========Variable declaration part 
 [iscript] 
 f['Traveller']=0; 
+f['Delulu']=0; 
 f['HP']=10; 
 f['Occupation']='artefactor'; 
 f['Potion']='None'; 
