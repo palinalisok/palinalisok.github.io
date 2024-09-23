@@ -173,6 +173,7 @@
 [cm  ]
 [chara_mod  name="Medeyna"  time="600"  cross="true"  storage="chara/1/MediSmile.png"  ]
 [tb_eval  exp="f.HP-=2"  name="HP"  cmd="-="  op="t"  val="2"  val_2="undefined"  ]
+[tb_eval  exp="f.Delulu+=2"  name="Delulu"  cmd="+="  op="t"  val="2"  val_2="undefined"  ]
 [tb_start_text mode=1 ]
 #
 Она чуть не повалила её всем своим весом. Руки оплели сестру. Тепло её тела после прохлады леса оказалось таким успокаивающим. И запах. Давно забытый запах откуда-то из глубин памяти исходил от её волос. [p]
