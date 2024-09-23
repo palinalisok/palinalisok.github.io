@@ -449,7 +449,7 @@
 
 [chara_mod  name="Asmir"  time="600"  cross="true"  storage="chara/2/asm.png"  ]
 
-[jump  storage="Final1.ks"  target="*Denial"  cond="f.Delulu==4"  ]
+[jump  storage="scene5.ks"  target="*Denial"  cond="f.Delulu==4"  ]
 
 *Fight
 
